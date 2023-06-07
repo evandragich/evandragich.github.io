@@ -1,0 +1,114 @@
+---
+title: CV
+format:
+  quarto-cv-pdf: 
+    author: Evan Dragich
+    date: last-modified
+    phone: 425-577-3304
+    #address: "2828 140th Ave NE Bellevue, WA 98005"
+    email: evandragich@gmail.com
+    fontsize: 11pt
+    github: evandragich # github account
+    #orcid: 0000-0001-9751-1840 # orcid identifier
+    #osf: ymqui # osf five character id
+    #twitter: twitter # twitter handle
+    web: evandragich.github.io
+    fontawesome: yes
+    nocite: '@*'
+    bibliography_peer: peer_bib.bib
+    bibliography_other: other_bib.bib
+    csl: apa-cv.csl
+---
+
+# Education
+
+*Duke University*, Trinity College of Arts and Sciences, Durham, NC \hfill May 2023 \newline
+Graduation *cum laude* \hfill Cum. GPA: 3.95 \newline
+B.S. Statistical Science (Concentration in Data Science) \hfill GPA: 4.00 \newline
+B.S. Psychology \hfill GPA: 3.98 \newline
+Thesis: *Exploring Data Science Education: From Tutorials to Assessment* \newline
+Advisor: Mine Çetinkaya-Rundel \newline
+Relevant Coursework: Multivariable calculus, Linear algebra, Mathematical statistics, Bayesian inference, Data structures and algorithms
+
+*Universidad de Carlos III de Madrid*, Madrid, Spain \hfill Fall 2022 \newline
+Relevant Coursework: Data bases
+
+# Honors
+
+*Department of Statistical Science, Duke University* \newline
+Graduation with High Distinction \hfill 2023 \newline
+Undergraduate TA of the Year \hfill 2023 \newline
+Honorable Mention Undergraduate TA of the Year \hfill 2022
+
+*Trinity College of Arts and Sciences, Duke University* \newline
+Graduation *cum laude* \hfill 2023 \newline
+Dean's List with Distinction \hfill Fall 2021, Spring 2023 \newline
+Dean's List \hfill Spring 2022
+
+# Publications
+
+::: {#refs_peer}
+:::
+
+# Presentations
+
+::: {#refs_other}
+:::
+
+# Teaching Assistantship
+*Duke University* \newline
+STA 313 - Advanced Data Visualization \hfill Spring 2023 \newline
+STA 199 - Introduction to Data Science \hfill Spring 2022
+
+# Leadership
+
+*Academic Resource Center, Duke University* \newline
+Peer Tutoring: \newline
+MATH 230 - Probability \hfill Fall 2021, Spring 2022, Spring 2023 \newline
+MATH 218 - Matrices and Vector Spaces \hfill Spring 2022
+
+SAGE Math (active learning study groups): \newline
+Lead Peer Facilitator \hfill Fall 2021 \newline
+MATH 218 - Matrices and Vector Spaces \hfill Fall 2021, Spring 2022
+
+*Office of Undergraduate Admissions, Duke University* \newline
+Campus Tour Guide \hfill Spring 2020 -- Spring 2021
+
+*DUU (Programming and Events Board), Duke University* \newline
+Vice President of Administration  \hfill Spring 2021 -- Spring 2022 \newline
+Duke\@Nite Committee Chair  \hfill Spring 2020 -- Spring 2021
+
+*Office of New Student and Family Programs, Duke University* \newline
+Head First-year Advisory Counselor \hfill Fall 2021, Fall 2022 \newline
+First-year Advisory Counselor \hfill Fall 2020
+
+*Office of Housing, Dining, and Residence Life, Duke University* \newline
+Student Dining Advisory Committee Member \hfill Fall 2019 -- Spring 2023
+
+# Languages
+
+English (native) \newline
+Spanish (highly proficient)
+
+# Programming Languages and Tools
+
+Highly proficient: R (base and `tidyverse`), Quarto, LaTeX \newline
+Proficient: Excel, Microsoft Power Query, Javascript \newline
+Familiar: Python (`sklearn` and `polars`), bash, HTML, CSS, lua
+
+# Industry Experience
+
+*New York Life Insurance Company*, New York, NY \newline
+Actuarial Assistant \hfill July 2023 --\newline
+Actuarial Intern \hfill May -- August 2022
+
+Affiliate of the Society of Actuaries \hfill 2021
+
+Exams: \newline
+P \hfill Passed July 2021 \newline
+FM \hfill Passed August 2021 \newline
+IFM \hfill Passed July 2022 \newline
+SRM \hfill Passed January 2023 \newline
+FAM \hfill Sitting November 2023 \newline
+
+
