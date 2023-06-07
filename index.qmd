@@ -14,5 +14,5 @@ about:
     - icon: envelope
       href: mailto:evandragich@gmail.com
     - text: "CV {{< fa download >}}"
-      href: https://github.com/evandragich.github.io/raw/main/_site/cv/CV.pdf
+      href: https://github.com/evandragich.github.io/raw/main/docs/cv/CV.pdf
 ---
