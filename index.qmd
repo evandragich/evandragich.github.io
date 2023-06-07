@@ -1,11 +1,17 @@
 ---
-title: "evandragich.github.io"
+title: "Evan Dragich"
+image: headshot.jpeg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 23em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/evandragich/
+    - text: Twitter
+      href: https://twitter.com/EvanDragich
+    - text: GitHub
+      href: https://github.com/evandragich
+    - text: Email
+      href: mailto:evandragich@gmail.com
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
